@@ -12,6 +12,8 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .headertop {
@@ -129,7 +131,7 @@ img {
 
 .credit {
     text-align: right;
-    font-size: 23px;
+    font-size: 23git px;
     font-weight: 700;
 }
 
