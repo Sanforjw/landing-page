@@ -1,6 +1,7 @@
 body {
     font-family: "roboto", sans-serif;
     display: flex;
+    flex-direction: column;
     height: 100vh;
     width: 100vw;
 }
@@ -77,3 +78,27 @@ button {
     width: 350px;
 }
 
+img {
+    height: 150px;
+    width: auto;
+    border: 5px solid #1F2937;
+    border-radius: 15px;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 32px;
+    margin-top: 35px;
+}
+
+.some-information {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
