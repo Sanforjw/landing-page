@@ -167,9 +167,14 @@ img {
     align-self: flex-end;
     justify-content: center;
     border: 1px solid white;
-    height: 25px;
-
-    
+    height: 40px;   
 }
 
-.
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 20px;
+}
