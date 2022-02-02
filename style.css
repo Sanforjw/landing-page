@@ -41,6 +41,7 @@ a {
     margin: 20px;
     align-items: flex-start;
     width: 380px;
+    padding-left: 100px;
     
     
 }
@@ -130,3 +131,45 @@ img {
     text-align: right;
     font-weight: 700;
 }
+
+.call-to-action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.action-container {
+    background-color: #3882F6;
+    color: #E5E7Eb;
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+    
+}
+
+.action-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    
+}
+
+.call-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.give-button {
+    display: flex;
+    align-self: flex-end;
+    justify-content: center;
+    border: 1px solid white;
+    height: 25px;
+
+    
+}
+
+.
