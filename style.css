@@ -158,6 +158,9 @@ img {
     align-items: center;
     justify-content: space-around;
     padding: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 60px;
     
 }
 
@@ -168,7 +171,6 @@ img {
 
 .give-button {
     display: flex;
-    align-self: flex-end;
     justify-content: center;
     border: 1px solid white;
     height: 40px;   
